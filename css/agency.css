@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 header {
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/header-bg.png);
     background-repeat: none;
     background-attachment: scroll;
     background-position: center center;
@@ -731,4 +731,9 @@ body {
     vertical-align: middle;
     line-height: 1.2em;
     padding-top: 50px;
+}
+
+.jack {
+    width: auto;
+    height: 30px;
 }
