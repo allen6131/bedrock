@@ -725,3 +725,10 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #c01b27
 }
+
+.big-text{
+    font-size: 20px;
+    vertical-align: middle;
+    line-height: 1.2em;
+    padding-top: 50px;
+}
